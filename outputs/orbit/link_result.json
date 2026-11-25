@@ -1,0 +1,16 @@
+{
+    "data_status": "SIMULATED",
+    "assumption_label": "LINK BUDGET VALUES ARE ASSUMPTIONS",
+    "frequency_hz": 8200000000,
+    "slant_range_km": 1005.8876499722876,
+    "fspl_db": 110.77726656819817,
+    "received_power_dbw": -52.77726656819817,
+    "cn0_dbhz": 148.83303338844163,
+    "ebn0_db": 78.83303338844163,
+    "required_ebn0_db": 5.0,
+    "link_margin_db": 73.83303338844163,
+    "bit_rate_bps": 10000000,
+    "contact_duration_seconds": 420.0,
+    "estimated_data_per_pass_mb": 525.0,
+    "best_pass_max_elevation_deg": 40.86272529494962
+}

@@ -1,0 +1,20 @@
+{
+    "data_status": "SIMULATED",
+    "assumption_label": "SIMULATION ASSUMPTIONS - NOT FLIGHT DATA",
+    "orbital_period_seconds": 5926.3823554715555,
+    "eclipse_fraction": 0.3572419676911943,
+    "sunlight_fraction": 0.6427580323088057,
+    "eclipse_duration_seconds": 2117.1524939590336,
+    "sunlight_duration_seconds": 3809.229861512522,
+    "solar_power_w": 342.97200000000004,
+    "sunlight_average_power_w": 220.44800785701574,
+    "total_load_power_w": 60,
+    "initial_battery_energy_wh": 80.0,
+    "generated_energy_wh": 5290.752188568378,
+    "consumed_energy_wh": 1440,
+    "net_energy_wh": 3850.752188568378,
+    "final_battery_energy_wh": 100,
+    "initial_battery_soc_percent": 80,
+    "final_battery_soc_percent": 100.0,
+    "simulation_duration_hours": 24
+}
