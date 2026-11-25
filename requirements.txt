@@ -1,0 +1,17 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+lightgbm
+streamlit
+plotly
+shapely
+pyproj
+rasterio
+geopandas
+scikit-image
+folium
+streamlit-folium
+skyfield
+sgp4
