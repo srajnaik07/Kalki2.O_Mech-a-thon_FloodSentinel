@@ -1,0 +1,14 @@
+{
+ "module": "flood",
+ "status": "ok",
+ "data_status": "REAL DATA",
+ "event": "",
+ "flood_area_km2": 0,
+ "method": "otsu",
+ "threshold_db": 0,
+ "iou": null,
+ "validation_status": "",
+ "inference_ms": 0,
+ "model_MB": 0,
+ "output_geojson": "outputs/flood/flood.geojson",
+ "output_png": "outputs/flood/flood_mask.png" }
