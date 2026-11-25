@@ -1,0 +1,14 @@
+{
+  "solar_panel_area_m2": 1.0,
+  "solar_irradiance_w_m2": 1361,
+  "solar_panel_efficiency": 0.28,
+  "power_system_loss_fraction": 0.1,
+  "battery_capacity_wh": 100,
+  "initial_battery_soc_percent": 80,
+  "bus_power_w": 30,
+  "payload_power_w": 20,
+  "onboard_compute_power_w": 10,
+  "simulation_duration_hours": 24,
+  "simulation_step_seconds": 60,
+  "assumption_label": "SIMULATION ASSUMPTIONS - NOT FLIGHT DATA"
+}

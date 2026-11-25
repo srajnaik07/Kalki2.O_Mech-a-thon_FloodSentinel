@@ -1,0 +1,16 @@
+{
+  "module": "latency",
+  "status": "ok",
+  "raw_MB": 0,
+  "insight_kB": 0,
+  "downlink_rate_bps": 0,
+  "wait_for_contact_s": 0,
+  "raw_downlink_s": 0,
+  "insight_downlink_s": 0,
+  "ground_processing_s": 0,
+  "onboard_processing_s": 0,
+  "ground_total_s": 0,
+  "onboard_total_s": 0,
+  "reduction_factor": 0,
+  "data_status": "MEASURED sizes + ASSUMPTION rates"
+}

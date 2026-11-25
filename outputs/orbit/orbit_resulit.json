@@ -1,0 +1,22 @@
+{
+  "module": "orbit",
+  "status": "ok",
+  "data_status": "SIMULATED",
+  "altitude_km": 0,
+  "semi_major_axis_km": 0,
+  "mean_motion_rad_s": 0,
+  "period_min": 0,
+  "sso_inclination_deg": 0,
+  "pass_duration_s": 0,
+  "max_elevation_deg": 0,
+  "slant_range_km": 0,
+  "fspl_db": 0,
+  "rx_power_dbw": 0,
+  "cn0_dbhz": 0,
+  "ebn0_db": 0,
+  "link_margin_db": 0,
+  "data_per_pass_MB": 0,
+  "eclipse_fraction": 0,
+  "min_battery_pct": 0,
+  "assumptions": []
+}
