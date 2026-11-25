@@ -1,0 +1,3 @@
+{ 
+    "module": "impact",  "status": "ok",  "data_status": "REAL_DATA_SIMULATED_MODEL",  "growth_score": 0,  "hindcast_auc": null,  "baseline_auc": null,  "epochs": [],  "night_light_change_pct": 0,  "night_light_source": "",  "limitations": []
+}
