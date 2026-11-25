@@ -1,0 +1,14 @@
+{
+ "module": "risk",
+ "status": "ok",
+ "data_status": "ESTIMATED",
+ "flooded_builtup_km2": 0,
+ "growth_adjusted_exposure_km2": 0,
+ "loss_low": 0,
+ "loss_high": 0,
+ "currency": "INR illustrative",
+ "primary_trigger": false,
+ "confirmation_signal": false,
+ "trigger_note": "prototype decision-support trigger, not payout eligibility",
+ "hotspots": []
+}
